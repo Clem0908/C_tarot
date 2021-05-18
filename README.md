@@ -5,3 +5,6 @@
 
 ## Running
 	out/c_tarot 4
+
+## Cleaning building files
+	make clean
