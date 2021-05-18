@@ -1,4 +1,4 @@
-# Open source GPLv3 C-written French Tarot project
+# Open source GPLv3 C-written French tarot game project
 
 ## Compiling
 	make
